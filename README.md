@@ -4,5 +4,5 @@
 - git submodule init
 - git submodule update
 
-<h2>Entre no diretório fin-api e digite: npm start</h2>
+<h2>Entre no diretório fin-api e digite: npm run start:dev</h2>
 
