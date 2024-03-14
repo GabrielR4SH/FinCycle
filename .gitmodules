@@ -1,0 +1,3 @@
+[submodule "fin-api"]
+	path = fin-api
+	url = https://github.com/GabrielR4SH/fin-api
